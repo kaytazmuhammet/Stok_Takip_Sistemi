@@ -1,0 +1,17 @@
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\bin\Debug\Stok_Otomasyon.exe.config
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\bin\Debug\Stok_Otomasyon.exe
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\bin\Debug\Stok_Otomasyon.pdb
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\obj\Debug\Stok_Otomasyon.csproj.AssemblyReference.cache
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\obj\Debug\Stok_Otomasyon.frmMüşteriEkle.resources
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\obj\Debug\Stok_Otomasyon.frmSatis.resources
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\obj\Debug\Stok_Otomasyon.Properties.Resources.resources
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\obj\Debug\Stok_Otomasyon.csproj.GenerateResource.cache
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\obj\Debug\Stok_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\obj\Debug\Stok_Otomasyon.exe
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\obj\Debug\Stok_Otomasyon.pdb
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\obj\Debug\Stok_Otomasyon.frmMüşteriListele.resources
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\obj\Debug\Stok_Otomasyon.frmKategori.resources
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\obj\Debug\Stok_Otomasyon.frmMarka.resources
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\obj\Debug\Stok_Otomasyon.frmÜrünEkle.resources
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\obj\Debug\Stok_Otomasyon.frmÜrünListeleme.resources
+C:\Users\Muhammet KAYTAZ\Desktop\Stok Takip Sistemi Masaüstü\Stok_Otomasyon\Stok_Otomasyon\obj\Debug\Stok_Otomasyon.frmSatışListele.resources
